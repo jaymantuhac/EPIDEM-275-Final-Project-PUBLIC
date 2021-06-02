@@ -3,6 +3,8 @@ The following repo contains materials and code used in my final project for EPID
 
 The primary scientific question of interest for this project is the following: Given 23andMe data from Harvard University's Personal Genome Project (PGP) database, a publicly available database of voluntarily submitted genomes, what diseases/traits are individuals be at most risk for? 
 
+Please note that due to the sensitive nature of this project due to the use of individual-level data, some code has been censored to protect the identities of the subjects that I have selected. 
+
 
 ## Project Acknowledgements
 - Code for this project was adapted from the following source: https://rpubs.com/cursingwords/Raw-Data-23-and-Me-Analysis-Part-1
